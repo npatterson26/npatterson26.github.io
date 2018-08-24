@@ -1,0 +1,1 @@
+This is the collection of files used for my blogging website, where I blog about anything and everything about my life.
